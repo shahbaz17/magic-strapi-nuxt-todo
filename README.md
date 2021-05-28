@@ -1,5 +1,6 @@
 # Magic Strapi Nuxt Todo Application
 
+This is the frontend to https://github.com/shahbaz17/magic-strapi-todo-api application.
 
 # Quick Start Instructions
 
